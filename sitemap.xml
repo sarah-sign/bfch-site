@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ch.bfcapital.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/"/>
+  </url>
+  <url>
+    <loc>https://ch.bfcapital.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/"/>
+  </url>
+  <url>
+    <loc>https://ch.bfcapital.com/en/how-we-work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/how-we-work/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/wie-wir-arbeiten/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/how-we-work/"/>
+  </url>
+  <url>
+    <loc>https://ch.bfcapital.com/de/wie-wir-arbeiten/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/how-we-work/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/wie-wir-arbeiten/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/how-we-work/"/>
+  </url>
+  <url>
+    <loc>https://ch.bfcapital.com/en/contact-legal/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/contact-legal/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/kontakt-recht/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/contact-legal/"/>
+  </url>
+  <url>
+    <loc>https://ch.bfcapital.com/de/kontakt-recht/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ch.bfcapital.com/en/contact-legal/"/>
+    <xhtml:link rel="alternate" hreflang="de-CH" href="https://ch.bfcapital.com/de/kontakt-recht/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ch.bfcapital.com/en/contact-legal/"/>
+  </url>
+</urlset>

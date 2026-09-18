@@ -1,0 +1,224 @@
+/* Self-hosted fonts (SIL Open Font License 1.1). No third-party requests. */
+@font-face{font-family:"Libre Baskerville";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/libre-baskerville-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Libre Baskerville";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/libre-baskerville-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Libre Baskerville";font-style:italic;font-weight:400;font-display:swap;src:url(/fonts/libre-baskerville-latin-ext-400-italic.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Libre Baskerville";font-style:italic;font-weight:400;font-display:swap;src:url(/fonts/libre-baskerville-latin-400-italic.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/open-sans-latin-ext-300-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/open-sans-latin-300-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/open-sans-latin-ext-400-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/open-sans-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/open-sans-latin-ext-600-normal.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Open Sans";font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/open-sans-latin-600-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+
+:root{
+  --navy:#1B2A4A;
+  --navy-deep:#111C31;
+  --green:#2E6B4F;
+  --paper:#FFFFFF;
+  --wash:#F1F3F6;
+  --ink:#141922;
+  --muted:#5C6675;
+  --faint:#9AA3B1;
+  --rule:#DDE1E8;
+  --measure:40rem;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  font-size:16.5px;line-height:1.7;font-weight:400;
+}
+h1,h2,h3,h4{margin:0;color:var(--navy);font-weight:400}
+h1,.serif{font-family:"Libre Baskerville",Georgia,serif}
+
+
+
+
+/* ---------- logo ---------- */
+.wordmark img,.wm img{display:block;height:44px;width:auto}
+.wordmark,.wm{display:inline-block;line-height:1}
+.wordmark .sub,.wm .sub{display:block;font-family:"Open Sans",sans-serif;font-size:.58rem;
+  letter-spacing:.2em;color:var(--muted);margin-top:.3rem;padding-left:calc(44px + .5rem)}
+.fmark{height:44px;width:auto;display:block;margin-bottom:1.3rem;opacity:.95}
+.mark{position:relative;overflow:hidden}
+.mark > *{position:relative;z-index:1}
+.mark::after{content:"";position:absolute;z-index:0;top:50%;right:-70px;width:340px;height:340px;
+  transform:translateY(-50%);background:url(/img/mark-watermark.png) no-repeat center/contain;opacity:.16;pointer-events:none}
+@media (max-width:900px){.mark::after{display:none}}
+@media (max-width:640px){.wordmark img,.wm img{height:34px}
+  .wordmark .sub,.wm .sub{padding-left:calc(34px + .4rem);font-size:.54rem}}
+
+/* ---------- header ---------- */
+header{position:sticky;top:0;z-index:50;background:var(--paper);border-bottom:1px solid var(--rule)}
+.bar{max-width:82rem;margin:0 auto;padding:1.15rem 2.5rem;
+  display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
+.wordmark{font-family:"Libre Baskerville",Georgia,serif;font-size:1.02rem;color:var(--navy);
+  text-decoration:none;letter-spacing:.01em;white-space:nowrap}
+.wordmark sup{font-size:.55em;color:var(--green);vertical-align:super;letter-spacing:0}
+nav{display:flex;align-items:center;gap:2.1rem;flex-wrap:wrap}
+nav a{font-size:.85rem;color:var(--muted);text-decoration:none;padding:.15rem 0;
+  border-bottom:1.5px solid transparent}
+nav a:hover{color:var(--navy)}
+nav a.on{color:var(--navy);border-bottom-color:var(--green)}
+.lang{padding-left:1.6rem;border-left:1px solid var(--rule);display:flex;gap:.35rem;align-items:center}
+.lang button{background:none;border:0;padding:0;cursor:pointer;font:inherit;font-size:.78rem;
+  color:var(--muted);letter-spacing:.04em}
+.lang button.on{color:var(--navy);font-weight:600}
+.lang i{color:var(--rule);font-style:normal;font-size:.78rem}
+
+/* ---------- layout ---------- */
+.page{display:none}
+.page.on{display:block}
+.wrap{max-width:82rem;margin:0 auto;padding:0 2.5rem}
+.narrow{max-width:var(--measure)}
+section.block{padding:5.5rem 0}
+section.block.tight{padding:3.5rem 0}
+.wash{background:var(--wash)}
+
+h1{font-size:clamp(2.15rem,5.2vw,3.6rem);line-height:1.12;letter-spacing:-.018em}
+h2{font-size:clamp(1.5rem,2.6vw,2.05rem);line-height:1.24;letter-spacing:-.012em;
+  font-family:"Libre Baskerville",Georgia,serif;margin-bottom:1.2rem}
+h3{font-size:1.02rem;font-weight:600;font-family:"Open Sans",sans-serif;margin:2.2rem 0 .55rem;color:var(--navy)}
+p{margin:0 0 1.2rem;max-width:var(--measure)}
+.lede{font-size:clamp(1.08rem,1.6vw,1.28rem);line-height:1.58;color:#2B313B;font-weight:300;max-width:44rem}
+.note{font-size:.88rem;color:var(--muted)}
+.ph{color:#A9B1BD}
+
+/* ---------- hero ---------- */
+.hero{position:relative;background:var(--navy-deep);overflow:hidden}
+.hero picture,.hero img{display:block;width:100%;height:auto}
+.hero img{max-height:74vh;object-fit:cover;object-position:center bottom}
+.hero .cap{
+  position:absolute;left:0;right:0;bottom:0;padding:2.2rem 2.5rem;
+  background:linear-gradient(to top,rgba(11,20,38,.94) 0%,rgba(11,20,38,.72) 45%,rgba(11,20,38,0) 100%);
+}
+.hero .cap div{max-width:82rem;margin:0 auto}
+.hero .cap p{color:#D7DEEA;font-size:.9rem;margin:0;max-width:34rem;font-weight:300}
+.hero .cap .code{color:#7C8CA6;margin-bottom:.5rem}
+.hero .cap .code b{color:#6FAE8C}
+
+/* ---------- masthead ---------- */
+.mast{padding:5rem 0 4rem}
+.mast h1{margin-bottom:1.6rem}
+
+/* ---------- regulatory tiles (sound.capital stat-tile form) ---------- */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));
+  border-top:1px solid var(--rule)}
+.tile{padding:2.4rem 2rem 2.4rem 0;border-bottom:1px solid var(--rule)}
+.tile .tok{font-family:"Libre Baskerville",Georgia,serif;font-size:2.1rem;color:var(--navy);
+  line-height:1;display:block;margin-bottom:.85rem;letter-spacing:-.01em;font-variant-numeric:tabular-nums}
+.tile .tok.sm{font-size:1.32rem;letter-spacing:0}
+.tile p{font-size:.9rem;color:var(--muted);margin:0;max-width:17rem}
+
+/* ---------- quote ---------- */
+.quote{border-left:2px solid var(--green);padding-left:2rem;max-width:44rem}
+.quote p{font-family:"Libre Baskerville",Georgia,serif;font-size:clamp(1.15rem,2vw,1.5rem);
+  line-height:1.5;color:var(--navy);margin:0}
+
+/* ---------- two-col ---------- */
+.cols{display:grid;grid-template-columns:14rem 1fr;gap:3rem}
+.cols .side{border-top:2px solid var(--navy);padding-top:1rem}
+.cols .side .code{margin-bottom:.3rem}
+.cols .side h2{font-size:1.15rem;margin:0}
+
+/* ---------- record ---------- */
+.record{max-width:var(--measure);border-top:2px solid var(--navy);margin-top:1.5rem}
+.record .row{display:grid;grid-template-columns:12rem 1fr;gap:1.5rem;
+  padding:.72rem 0;border-bottom:1px solid var(--rule)}
+.record dt{font-size:.85rem;color:var(--muted)}
+.record dd{margin:0;font-size:.94rem;font-variant-numeric:tabular-nums}
+.record dd a{color:var(--navy);text-decoration:none;border-bottom:1px solid var(--green)}
+.record dd a:hover{color:var(--green)}
+
+/* ---------- lists ---------- */
+ul.plain{max-width:var(--measure);margin:0 0 1.3rem;padding:0;list-style:none}
+ul.plain li{position:relative;padding-left:1.2rem;margin-bottom:.55rem}
+ul.plain li::before{content:"";position:absolute;left:0;top:.78em;width:.45rem;height:1px;background:var(--green)}
+
+.excl{max-width:var(--measure);padding:1.6rem 1.8rem;background:#fff;border:1px solid var(--rule);border-left:2px solid var(--navy)}
+.excl h3{margin-top:0}
+.excl p:last-child{margin-bottom:0}
+
+/* ---------- service blocks ---------- */
+.svc{border-top:2px solid var(--navy);padding-top:1.8rem;margin-top:0}
+.svc .side{border-top:0;padding-top:0}
+.svc + .svc{margin-top:4rem}
+.strap{font-family:"Libre Baskerville",Georgia,serif;font-size:1.18rem;color:var(--green);
+  line-height:1.4;margin:0 0 1.1rem}
+.glance{margin-top:1.8rem;padding-top:1.2rem;border-top:1px solid var(--rule)}
+.glance h4{font-size:.72rem;letter-spacing:.13em;color:var(--faint);font-weight:600;
+  margin:0 0 .8rem;font-family:"Open Sans",sans-serif}
+.glance ul{margin:0;padding:0;list-style:none;columns:2;column-gap:2.4rem}
+.glance li{position:relative;padding-left:1.1rem;margin-bottom:.42rem;font-size:.9rem;
+  break-inside:avoid;line-height:1.5}
+.glance li::before{content:"";position:absolute;left:0;top:.7em;width:.4rem;height:1px;background:var(--green)}
+@media (max-width:700px){.glance ul{columns:1}}
+
+/* ---------- principles ---------- */
+.prin{display:grid;grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));
+  gap:2.4rem 3rem;border-top:1px solid var(--rule);padding-top:2.4rem}
+.prin h3{margin:0 0 .5rem;font-size:1.05rem;font-family:"Libre Baskerville",Georgia,serif;font-weight:400}
+.prin p{font-size:.92rem;margin:0;max-width:none;color:#333A45}
+
+/* ---------- legal ---------- */
+.legal h3{margin-top:2.6rem;padding-top:1.2rem;border-top:1px solid var(--rule);font-size:1rem}
+.legal h3:first-of-type{border-top:0;padding-top:0;margin-top:0}
+.legal p{font-size:.94rem}
+.legal a{color:var(--navy);text-decoration:none;border-bottom:1px solid var(--green)}
+.legal a:hover{color:var(--green)}
+
+/* ---------- footer ---------- */
+footer{background:var(--navy-deep);color:#B9C3D4;border-top:3px solid var(--green)}
+.fin{max-width:82rem;margin:0 auto;padding:4rem 2.5rem 2.5rem}
+.fin .fname{font-family:"Libre Baskerville",Georgia,serif;color:#fff;font-size:1.15rem;margin-bottom:.4rem}
+.fin .ftag{font-size:.85rem;color:#7C8CA6;margin-bottom:2.6rem;font-weight:300}
+.fcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:2.2rem 2.5rem;
+  border-top:1px solid rgba(255,255,255,.14);padding-top:2.2rem}
+.fcols h4{font-size:.8rem;color:#6E7C93;font-weight:400;margin-bottom:.35rem}
+.fcols div p,.fcols div a{font-size:.85rem;line-height:1.75;margin:0;color:#C9D2E0;display:block;text-decoration:none}
+.fcols div a:hover{color:#fff}
+.fcols .val{color:#E6EBF3;font-variant-numeric:tabular-nums}
+.fbot{margin-top:2.6rem;padding-top:1.3rem;border-top:1px solid rgba(255,255,255,.14);
+  font-size:.76rem;color:#6E7C93;display:flex;gap:1.6rem;flex-wrap:wrap;align-items:baseline}
+.fbot a{color:#C6CEDC;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.28)}
+.fbot a:hover{color:#fff;border-bottom-color:#fff}
+/* .fcols div p sets display:block and outranks the generic [data-l] hide,
+   so the language switch needs a stronger pair of rules here */
+.fcols div p[data-l]{display:none}
+body.en .fcols div p[data-l="en"],
+body.de .fcols div p[data-l="de"]{display:block}
+
+/* ---------- language ---------- */
+[data-l]{display:none}
+body.en [data-l="en"]{display:revert}
+body.de [data-l="de"]{display:revert}
+/* display:revert would knock grid containers back to block */
+body.en .prin[data-l="en"],body.de .prin[data-l="de"]{display:grid}
+
+@media (max-width:820px){
+  .cols{grid-template-columns:1fr;gap:1.6rem}
+  .tile{padding-right:0}
+}
+@media (max-width:640px){
+  .wrap,.bar,.fin{padding-left:1.35rem;padding-right:1.35rem}
+  section.block{padding:3.4rem 0}
+  .mast{padding:3.2rem 0 2.4rem}
+  .record .row{grid-template-columns:1fr;gap:.1rem}
+  .hero .cap{padding:1.4rem 1.35rem;position:static;background:var(--navy-deep)}
+  .hero img{max-height:none}
+  nav{gap:1.15rem}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+a:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:3px}
+
+/* ---------- production: language switch is two real links, not buttons ---------- */
+.lang a{font:inherit;font-size:.78rem;color:var(--muted);letter-spacing:.04em;text-decoration:none;padding:0;border:0}
+.lang a.on{color:var(--navy);font-weight:600;border:0}
+
+/* ---------- production fix (bug in the mockup): `.mast{padding:5rem 0 4rem}` wiped out the side
+   padding that `.wrap` provides, so the page heading touched the screen edge on any window
+   narrower than about 1310px, including phones. Side padding restored; nothing else changed. ---------- */
+.mast{padding-left:2.5rem;padding-right:2.5rem}
+@media (max-width:640px){.mast{padding-left:1.35rem;padding-right:1.35rem}}
+
